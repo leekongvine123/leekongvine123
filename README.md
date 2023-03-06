@@ -1,10 +1,146 @@
-<h3 align="center">Hi! I'm Vinh, and I'm studying Software Engineering at FPTU HCM.</h3>
+  </a>
+  <a href="mailto:MR-Addict@qq.com" target="_blank">
+    <img
+      height="35"
+      alt="gmail logo"
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+  <a href="https://mraddict.one" target="_blank">
+    <img
+      height="35"
+      alt="microsoft-outlook logo"
+      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+    />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/công vinh lê" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="công vinh lê" height="30" width="40" /></a>
-<a href="https://instagram.com/leekongvine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leekongvine" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+I'm an undergradute student of Njtech University from Jiangsu China.
+
+I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
+
+- 🔭 I’m currently working on building my portfolio and contributing to open source projects.
+- 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
+- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
+- 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
+- 💬 Ask me about anything related to programming, technology, or video games.
+- 😄 You can reach me using above social badges links.
+
+Here are programming languages or tools I frequently used:
+
+<div>
+  <img
+    height="30"
+    width="42"
+    alt="typescript logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="python logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="matlab logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="tailwindcss logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="react logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="svelte logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="nextjs logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="mongodb logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="redis logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="mysql logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="docker logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="nginx logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="processing logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="raspberrypi logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="arduino logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+  />
+</div>
+
+##
+
+And here are some interesting grphs:
+
+<!-- grph -->
+<div align="left">
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+    />
+    <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+    />
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+</div>
