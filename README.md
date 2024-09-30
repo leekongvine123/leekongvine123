@@ -5,7 +5,6 @@
 
 
 
-- :mortar_board: I’m currently second-year student at FPT University Ho Chi Minh
 - :star: My major is Software Engineering
 - 💻 All of my projects are available at [**my repositories**](https://github.com/leekongvine123?tab=repositories)
 
